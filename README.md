@@ -8,7 +8,8 @@
 
 Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
 
-Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
+Blog - https://codeloom.co.in/blog
+how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
 
 ### Features - 
 
